@@ -1,2 +1,1 @@
-# tmdb-eda-assignment
-tmdb-eda-assignment
+EDA pipeline using TMDB API with Python, Pandas, and SQLite.
